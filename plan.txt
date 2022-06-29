@@ -1,0 +1,6 @@
+Hız Kontrol Sistemi
+-------------------
+1- araba tespit
+ -> haar cascade
+2- kaç km
+3- cezai
